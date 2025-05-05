@@ -32,7 +32,7 @@ I believe data is not just numbers—it’s people, places, and possibilities. O
 
 **M.S. in Data Science**  
 *Michigan Technological University, MI, USA (2024–2025)*  
-GPA: 3.7
+GPA: 3.83
 
 **B.Sc. in Computer Science with Data Analytics**  
 *PSG College of Arts and Science, India (2020–2023)*  
