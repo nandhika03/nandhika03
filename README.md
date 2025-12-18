@@ -4,9 +4,9 @@
 - 💞️ hypothesis testings
 - 😄 Pronouns: ...she/her
 
-- # 👩‍💻 Nandhika Rajmanikandan — Budding Data Scientist
+- # Nandhika Rajmanikandan — Budding Data Scientist
 
-📍 Houghton, MI | ✉️ nrajmani@mtu.edu | 📞 906-275-9803  
+📍 Houghton, MI | ✉️ nrajmani@mtu.edu | 
 🌐 [LinkedIn](https://www.linkedin.com/in/nandhika-raj/) | 💻 [GitHub](https://github.com/nandhika03)
 
 ---
